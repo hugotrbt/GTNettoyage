@@ -13,8 +13,9 @@ Il n'y a pas de réelles fonctionnalités mais seulement une page présentant l'
 
 ## 🧠 Technologies utilisées
 
-- ⚛️ React + TypeScript (frontend)
-- ⚡ Vite (build tool)
-- 🎨 TailwindCSS (design rapide et responsive)
+- ⚛️ React + TypeScript
+- ⚡ Vite
+- 🎨 TailwindCSS
+- 💻 GitHub Pages
 
 ---
